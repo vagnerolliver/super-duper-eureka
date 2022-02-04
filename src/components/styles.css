@@ -1,0 +1,17 @@
+body {
+  padding: 1rem
+}
+
+img {
+  display: block;
+  margin-bottom: 1rem
+}
+
+input, h2 {
+  margin: 20px 0
+}
+
+input {
+  width: 500px;
+  height: 36px
+}
